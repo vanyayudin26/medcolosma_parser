@@ -1,4 +1,4 @@
-module github.com/vanyayudin26/college_osma_parser/v2
+module github.com/vanyayudin26/medcolosma_parser/v2
 
 go 1.20
 
