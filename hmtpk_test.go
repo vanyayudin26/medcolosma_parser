@@ -6,12 +6,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vanyayudin26/college_osma_parser/v2/announce"
-	"github.com/vanyayudin26/college_osma_parser/v2/model"
-	"github.com/vanyayudin26/college_osma_parser/v2/schedule/group"
-	"github.com/vanyayudin26/college_osma_parser/v2/schedule/teacher"
-	"github.com/vanyayudin26/college_osma_parser/v2/storage"
-	"github.com/vanyayudin26/college_osma_parser/v2/utils"
+	"github.com/vanyayudin26/medcolosma_parser/v2/announce"
+	"github.com/vanyayudin26/medcolosma_parser/v2/model"
+	"github.com/vanyayudin26/medcolosma_parser/v2/schedule/group"
+	"github.com/vanyayudin26/medcolosma_parser/v2/schedule/teacher"
+	"github.com/vanyayudin26/medcolosma_parser/v2/storage"
+	"github.com/vanyayudin26/medcolosma_parser/v2/utils"
 	"github.com/sirupsen/logrus"
 )
 

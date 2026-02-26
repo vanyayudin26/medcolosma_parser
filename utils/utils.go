@@ -3,7 +3,7 @@ package utils
 import (
 	"strings"
 
-	"github.com/vanyayudin26/college_osma_parser/v2/storage"
+	"github.com/vanyayudin26/medcolosma_parser/v2/storage"
 )
 
 func GetDate(date string) string {

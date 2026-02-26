@@ -1,6 +1,6 @@
 # Парсер ХМТПК
-[![Go Reference](https://pkg.go.dev/badge/github.com/vanyayudin26/college_osma_parser/v2.svg)](https://pkg.go.dev/github.com/vanyayudin26/college_osma_parser/v2)
-[![Go Report Card](https://goreportcard.com/badge/github.com/vanyayudin26/college_osma_parser/v2)](https://goreportcard.com/report/github.com/vanyayudin26/college_osma_parser/v2)
+[![Go Reference](https://pkg.go.dev/badge/github.com/vanyayudin26/medcolosma_parser/v2.svg)](https://pkg.go.dev/github.com/vanyayudin26/medcolosma_parser/v2)
+[![Go Report Card](https://goreportcard.com/badge/github.com/vanyayudin26/medcolosma_parser/v2)](https://goreportcard.com/report/github.com/vanyayudin26/medcolosma_parser/v2)
 ![License](https://img.shields.io/github/license/chazari-x/hmtpk_parser)
 [![Application](https://img.shields.io/badge/VK-Mini-App)](https://vk.com/app51786452)
 [![Group](https://img.shields.io/badge/VK-Subscripe-blue)](https://vk.com/club218199825)
@@ -19,7 +19,7 @@
 Для установки пакета, выполните следующую команду:
 
 ```bash
-go get github.com/vanyayudin26/college_osma_parser/v2
+go get github.com/vanyayudin26/medcolosma_parser/v2
 ```
 
 ## Использование
@@ -32,7 +32,7 @@ import (
   "context"
   "fmt"
   
-  hmtpk "github.com/vanyayudin26/college_osma_parser/v2"
+  hmtpk "github.com/vanyayudin26/medcolosma_parser/v2"
   "github.com/go-redis/redis/v8"
   "github.com/sirupsen/logrus"
 )

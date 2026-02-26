@@ -11,9 +11,9 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/vanyayudin26/college_osma_parser/v2/model"
-	"github.com/vanyayudin26/college_osma_parser/v2/storage"
-	"github.com/vanyayudin26/college_osma_parser/v2/utils"
+	"github.com/vanyayudin26/medcolosma_parser/v2/model"
+	"github.com/vanyayudin26/medcolosma_parser/v2/storage"
+	"github.com/vanyayudin26/medcolosma_parser/v2/utils"
 	"github.com/go-redis/redis/v8"
 	"github.com/sirupsen/logrus"
 )
